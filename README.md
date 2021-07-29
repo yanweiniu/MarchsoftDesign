@@ -1,7 +1,7 @@
-# boty-design
+# MarchsoftDesign
 
 <p align="center">
-    <img alt="logo" src="https://avatars.githubusercontent.com/u/79920730" width="300" height="300">
+    <img alt="logo" src="./logo.jpg" width="300" height="300">
 </p>
 <p align="center">汇集更多有价值的mvp</p>
 

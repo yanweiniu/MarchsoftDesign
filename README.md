@@ -7,6 +7,9 @@
 
 <p align="center">
   <a href="https://github.com/boty-design/boty-design">
+    <img src="https://img.shields.io/badge/vue-组件库-blue.svg" alt="vue">
+  </a>
+  <a href="https://github.com/boty-design/boty-design">
     <img src="https://img.shields.io/badge/react-组件库-blue.svg" alt="vue">
   </a>
   <a href="https://github.com/boty-design/boty-design">

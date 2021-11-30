@@ -1,7 +1,7 @@
 # Parts Collection Station
 
 <p align="center">
-    <img alt="logo" src="./logo.png" width="300" height="200">
+    <img alt="logo" src="./logo.png" width="521" height="245">
 </p>
 <p align="center">汇集更多有价值的mvp</p>
 

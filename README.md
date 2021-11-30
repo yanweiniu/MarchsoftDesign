@@ -28,8 +28,9 @@
 ✅ 已完成
 ⭐️ 完善中
 ❌ 未开始
-### JS组件
-- Button 按钮 ⭐️ 
+### JS
+- JavaScript弹窗插件
+https://www.jq22.com/yanshi23886
 - Layout 布局 ❌
 - Icon 图标 ❌
 

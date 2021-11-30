@@ -1,7 +1,7 @@
-# MarchsoftDesign
+# Parts Collection Station
 
 <p align="center">
-    <img alt="logo" src="./logo.jpg" width="300" height="300">
+    <img alt="logo" src="./logo.jpg" width="300" height="200">
 </p>
 <p align="center">汇集更多有价值的mvp</p>
 
